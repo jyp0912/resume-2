@@ -1,0 +1,15 @@
+{
+  "name": "resume-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "message.js",
+  "scripts": {
+         "build": "babel src/css/ -d dist/css/"
+       },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7"
+  }
+}
