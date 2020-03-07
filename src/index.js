@@ -1,0 +1,5 @@
+import './js/auto-slide-up'
+import './js/init-swiper'
+import './js/smooth-navigator'
+import './js/sticky-topbar'
+import './css/main.scss'
